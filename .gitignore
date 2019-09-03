@@ -12,4 +12,3 @@ npm-debug.log
 yarn-error.log
 
 .docker/dbdata/
-.docker/nginx/nginx.conf
